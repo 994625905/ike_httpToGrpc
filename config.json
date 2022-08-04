@@ -1,0 +1,10 @@
+{
+  "userManager": {
+    "grpcProtoGroup": "grpc_test",
+    "grpcRegisterCenter": "127.0.0.1:8500",
+    "grpcRegisterCenterType": "consul",
+    "grpcRegisterServiceName": "helloserver",
+    "packageName": "helloworld",
+    "serviceName": "Greeter"
+  }
+}

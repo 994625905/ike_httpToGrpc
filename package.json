@@ -1,0 +1,11 @@
+{
+  "name": "ike_httpToGrpc",
+  "version": "1.0.0",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.4.4",
+    "consul": "^0.40.0"
+  },
+  "devDependencies": {
+    "@grpc/proto-loader": "^0.6.7"
+  }
+}
